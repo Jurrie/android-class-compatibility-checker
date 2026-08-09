@@ -3,7 +3,7 @@
 
 	<groupId>org.jurr.java.android.classcompatibilitychecker</groupId>
 	<artifactId>android-class-compatibility-checker</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<name>A tool to (unit)test your project for Android class compatibility</name>
 	<description>This is a tool that helps test if your project will run on Android. It will detect usage of things that are not available on Android, but might compile fine using a regular JDK.</description>
@@ -29,7 +29,7 @@
 		<connection>scm:git:git@github.com:Jurrie/android-class-compatibility-checker.git</connection>
 		<developerConnection>scm:git:git@github.com:Jurrie/android-class-compatibility-checker.git</developerConnection>
 		<url>https://github.com/Jurrie/android-class-compatibility-checker/tree/main</url>
-		<tag>HEAD</tag>
+		<tag>android-class-compatibility-checker-1.0.0</tag>
 	</scm>
 
 	<properties>
