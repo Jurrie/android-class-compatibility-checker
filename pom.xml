@@ -3,7 +3,7 @@
 
 	<groupId>org.jurr.java.android.classcompatibilitychecker</groupId>
 	<artifactId>android-class-compatibility-checker</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>A tool to (unit)test your project for Android class compatibility</name>
 	<description>This is a tool that helps test if your project will run on Android. It will detect usage of things that are not available on Android, but might compile fine using a regular JDK.</description>
